@@ -1,4 +1,4 @@
-
+# Practice problems in python
 a = 23,35,46,21
 total = 0
 e=[]
