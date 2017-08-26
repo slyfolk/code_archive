@@ -1,0 +1,7 @@
+print (cart.total)
+cart.add_item("i_phone 7s", 2, 150000)
+cart.add_item("Samsung 8 Edge" , 2, 200000)
+cart.remove_item("i_phone 7s", 3, 150000)
+cart.remove_item("Samsung 8 Edge", 2, 200000)
+cart.add_item("i_phone 7s", 1, 145000)
+cart.add_item('Samsung 8 Edge', 1, 195000)

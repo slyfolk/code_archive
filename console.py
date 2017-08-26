@@ -1,4 +1,4 @@
-# Practice problems in python
+
 a = 23,35,46,21
 total = 0
 e=[]
@@ -70,8 +70,6 @@ def numero_optimized(a,b):
 print("making changes on work directory")
 	
 		
-numero(x,y)
-numero_optimized(x,y)
 
 
 
