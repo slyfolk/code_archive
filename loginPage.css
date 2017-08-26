@@ -1,0 +1,46 @@
+.container {
+
+}
+
+h1 {
+	font-family: Lobster, Monospace;
+	color: rgba(120,216,0,0.6);	
+	font-style: Times;
+}
+
+body {
+	text-align: center;
+}
+
+input{
+	margin:10px;
+	line-height: 2.5em;
+	border-width: 1.5px;
+	border-color: rgba(0,150,0,0.5);
+	border-radius: 5px;
+	text-align: left;
+	padding: auto;
+	padding-left: 10px;	
+}
+
+button {
+	font-family: Lobster, Monospace;
+	opacity: 0.8;
+	padding:8px;
+	padding-right: 20px;
+	border-width: 1.5px;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 0px;
+	background-color: rgb(255,255,255);
+	width: 300
+	px;
+}
+
+.Sign-In {
+	background-color: rgba(120,216,0,0.8);
+}
+
+.Sign-Up {
+	background-color: rgba(0,0,200,0.6);
+}
